@@ -6,6 +6,10 @@ Tips and tricks I'm learning each day.
 
 - [Checkout the previous branch](./git/checkout-the-previous-branch.md)
 
+## MongoDB
+
+- [Get the timestamp from a MongoDB ObjectId](./mongodb/get-timestamp-from-objectid.md)
+
 ## Shell
 
 - [Run the previous command in the shell](./shell/run-previous-command.md)
