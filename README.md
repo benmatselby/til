@@ -6,6 +6,10 @@ Tips and tricks I'm learning each day.
 
 - [Checkout the previous branch](./git/checkout-the-previous-branch.md)
 
+## macOS
+
+- [Open an app from the command line](./macos/open-app-from-cli.md)
+
 ## MongoDB
 
 - [Get the timestamp from a MongoDB ObjectId](./mongodb/get-timestamp-from-objectid.md)
