@@ -4,6 +4,7 @@ Tips and tricks I'm learning each day.
 
 ## Git
 
+- [Add files interactively](./git/add-files-interactively.md)
 - [Checkout the previous branch](./git/checkout-the-previous-branch.md)
 
 ## macOS
