@@ -14,6 +14,10 @@ Tips and tricks I'm learning each day.
 
 - [Get the timestamp from a MongoDB ObjectId](./mongodb/get-timestamp-from-objectid.md)
 
+## MySQL
+
+- [Render a record vertically](./mysql/render-record-vertically.md)
+
 ## Shell
 
 - [Run the previous command in the shell](./shell/run-previous-command.md)
