@@ -13,8 +13,9 @@ Tips and tricks I'm learning each day.
 
 ## MongoDB
 
-- [Get the timestamp from a MongoDB ObjectId](./mongodb/get-timestamp-from-objectid.md)
 - [Export data from MongoDB](./mongodb/export-data.md)
+- [Get an explain plan for a query](./mongodb/get-an-explain-plan.md)
+- [Get the timestamp from a MongoDB ObjectId](./mongodb/get-timestamp-from-objectid.md)
 
 ## MySQL
 
