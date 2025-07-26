@@ -23,8 +23,9 @@ Tips and tricks I'm learning each day.
 
 ## Shell
 
-- [Run the previous command in the shell](./shell/run-previous-command.md)
 - [Get the last parameter from the previous command](./shell/get-last-parameter.md)
+- [List all binary locations](./shell/list-all-binary-locations.md)
+- [Run the previous command in the shell](./shell/run-previous-command.md)
 
 ## SQLite
 
