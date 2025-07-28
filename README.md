@@ -2,6 +2,10 @@
 
 Tips and tricks I'm learning each day.
 
+## Datadog
+
+- [Quotes matter in log queries](./datadog/quotes-matter.md)
+
 ## Git
 
 - [Add files interactively](./git/add-files-interactively.md)
