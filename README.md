@@ -16,6 +16,7 @@ Tips and tricks I'm learning each day.
 - [Open an app from the command line](./macos/open-app-from-cli.md)
 - [Use Touch ID for sudo](./macos/touch-id-for-sudo.md)
 - [Use Touch ID for sudo in tmux](./macos/touch-id-for-sudo-with-tmux.md)
+- [Fix broken access to sudo](./macos/fix-broken-access-to-sudo.md)
 
 ## MongoDB
 
