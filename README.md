@@ -11,6 +11,10 @@ Tips and tricks I'm learning each day.
 - [Add files interactively](./git/add-files-interactively.md)
 - [Checkout the previous branch](./git/checkout-the-previous-branch.md)
 
+## Kubernetes
+
+- [Authenticate with `gcloud`](./kubernetes/authenticate-with-gcloud.md)
+
 ## macOS
 
 - [Open an app from the command line](./macos/open-app-from-cli.md)
