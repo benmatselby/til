@@ -38,6 +38,7 @@ Tips and tricks I'm learning each day.
 - [Get the last parameter from the previous command](./shell/get-last-parameter.md)
 - [List all binary locations](./shell/list-all-binary-locations.md)
 - [Run the previous command in the shell](./shell/run-previous-command.md)
+- [Job management](./shell/job-management.md)
 
 ## SQLite
 
