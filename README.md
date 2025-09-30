@@ -45,3 +45,7 @@ Tips and tricks I'm learning each day.
 - [Define the configuration file](./sqlite/define-configuration-file.md)
 - [Render a record vertically](./sqlite/render-record-vertically.md)
 - [Set the render mode](./sqlite/set-render-mode.md)
+
+## Tmux
+
+- [Move windows between sessions](./tmux/move-window-between-sessions.md)
