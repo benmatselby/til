@@ -62,3 +62,18 @@ It will look like this
 |        |           |         |
 |------------------------------|
 ```
+
+## Example tmuxinator configuration
+
+```yml
+name: project
+root: ~/git/
+
+windows:
+  - coding:
+      layout: main-vertical
+      panes:
+        -
+        -
+        -
+```
