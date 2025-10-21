@@ -49,3 +49,4 @@ Tips and tricks I'm learning each day.
 ## Tmux
 
 - [Move windows between sessions](./tmux/move-window-between-sessions.md)
+- [Layout explanations](./tmux/layout-explanations.md)
