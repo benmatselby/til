@@ -10,6 +10,7 @@ Tips and tricks I'm learning each day.
 
 - [Add files interactively](./git/add-files-interactively.md)
 - [Checkout the previous branch](./git/checkout-the-previous-branch.md)
+- [Find commit where a string was added](./git/find-commit-string-introduced.md)
 
 ## Kubernetes
 
