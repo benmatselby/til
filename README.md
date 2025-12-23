@@ -40,6 +40,7 @@ Tips and tricks I'm learning each day.
 - [List all binary locations](./shell/list-all-binary-locations.md)
 - [Run the previous command in the shell](./shell/run-previous-command.md)
 - [Job management](./shell/job-management.md)
+- [Sort and `uniq` content, and display where count is greater than one](./shell/sort-uniq-with-count-greater-than-one.md)
 
 ## SQLite
 
