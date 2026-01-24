@@ -53,3 +53,4 @@ Tips and tricks I'm learning each day.
 - [Finding a window](./tmux/finding-a-window.md)
 - [Move windows between sessions](./tmux/move-window-between-sessions.md)
 - [Layout explanations](./tmux/layout-explanations.md)
+- [Unset an environment variable](./tmux/unset-environment-variable.md)
