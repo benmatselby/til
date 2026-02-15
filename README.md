@@ -12,6 +12,10 @@ Tips and tricks I'm learning each day.
 - [Checkout the previous branch](./git/checkout-the-previous-branch.md)
 - [Find commit where a string was added](./git/find-commit-string-introduced.md)
 
+## Jenkins
+
+- [Change the port when running via Brew](./jenkins/change-port-when-running-via-brew.md)
+
 ## Kubernetes
 
 - [Authenticate with `gcloud`](./kubernetes/authenticate-with-gcloud.md)
